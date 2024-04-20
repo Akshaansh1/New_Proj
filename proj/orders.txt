@@ -1,0 +1,9 @@
+Order 1
+Lawn Mowers ,20,20000
+Gadgets ,5,20
+
+
+Order 2
+Phones , 50,40000
+MacBook , 10,100000
+

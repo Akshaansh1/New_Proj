@@ -1,0 +1,8 @@
+Machinery, 10
+Goods , 5
+Tools , 20
+Gadgets , 30
+MacBook , 20
+Phones , 100
+Lawn Mowers , 30
+Valueables,10
